@@ -21,7 +21,7 @@ Key coefficients:
 
 ## Usage
 
-Each R file provides functions for different types of analysis and modeling. For example, the `Cluster_analysis.R` script contains functions to perform cluster analysis, while `Bass functions.R` provides functions for Bass diffusion modeling.
+Each R file provides functions for different types of analysis and modeling. For example, the `Cluster_analysis.R` script contains functions to perform cluster analysis, while `Bass functions.R` provides functions for Bass diffusion modeling. To improve performance estimation, the code utilizes genetic algorithm-based estimation.
 
 **Part of the results**
 <div align="center">
