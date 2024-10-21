@@ -1,4 +1,4 @@
-# 여러가지 성능 척도를 한꺼번에 구하기 위한 함수
+# Performance measurement
 
 fitness <- function(y, yhat, k)
 {
