@@ -4,7 +4,7 @@ This repository contains several R scripts that implement various functions for 
 🐤 **Related work**: Lee, S., Kim, J., & Lee, H. (2025+). Unveiling the types of growth patterns of mobile startups: do business models matter? Technology Analysis & Strategic Management, In press. https://doi.org/10.1080/09537325.2024.2361420.
 
 
-**Bass diffusion model**
+## Bass diffusion model
 <div align="center">
     <img src="https://github.com/user-attachments/assets/58846f93-ff24-4ff9-b338-7c5d2bd4270e" alt="image00016" width="600"/>
     <p style="font-size: 14px; color: gray;">Image source: NumberAnalytics</p>
