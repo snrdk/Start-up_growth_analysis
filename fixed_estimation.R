@@ -1,5 +1,5 @@
 getwd()
-setwd("C:\\Users\\user\\Desktop\\References\\박사\\2차")
+setwd("your_path")
 
 # Startup MAU Bass estimation 
 
