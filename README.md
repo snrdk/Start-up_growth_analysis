@@ -31,7 +31,7 @@ Each R file provides functions for different types of analysis and modeling. For
 
 
 ## Key Features
-* **Estimation** Algorithms: Perform various estimations based on input data.
+* **Estimation**: Algorithms: Perform various estimations based on input data.
 * **Cluster Analysis**: Identify and analyze different clusters within the dataset.
 * **Bass Modeling**: Implement the Bass diffusion model to forecast market adoption.
 
