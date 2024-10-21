@@ -43,3 +43,8 @@ The scripts included in this repository are:
 - `Cluster_analysis.R`: Functions for cluster analysis
 - `crosstable.R`: Functions for crosstable analysis
 - `Estimation.R`: Additional estimation algorithm implementations
+
+
+## Requirements
+* R
+* Libraries: tidyverse, cluster, forecast, ggplot2, dplyr
