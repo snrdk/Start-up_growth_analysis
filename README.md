@@ -1,5 +1,5 @@
 # Start-up Growth Analysis
-This repository contains several R scripts that implement various functions for data analysis, clustering, and estimation algorithms. This code uses a Bass diffusion model to fit a company's monthly active users (MAUs) and estimate growth to compare the parameters of each. 
+This repository contains several R scripts that implement various functions for data analysis, clustering, and estimation algorithms. This code uses a Bass diffusion model to fit a startup's monthly active users (MAUs) and estimate growth to compare the parameters of each. 
 
 🐤 **Related work**: Lee, S., Kim, J., & Lee, H. (2025+). Unveiling the types of growth patterns of mobile startups: do business models matter? Technology Analysis & Strategic Management, In press. https://doi.org/10.1080/09537325.2024.2361420.
 
